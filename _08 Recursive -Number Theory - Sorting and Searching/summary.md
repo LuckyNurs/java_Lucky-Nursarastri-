@@ -1,0 +1,3 @@
+Sorting adalah proses menyusun kembali data yang sebelumnya telah disusun dengan suatu pola tertentu, sehingga tersusun secara teratur menurut aturan tertentu. Pengurutan dapat dilakukan secara ascending (menaik) dan descending (menurun). Dalam struktur data,pengurutan data sangat penting untuk data yang bertipe numerik ataupun karakter.
+
+Sedangkan Algoritma Searching atau Pencarian merupakan proses yang fundamental dalam pengolahan data. Proses pencarian adalah menemukan nilai(data) tertentu didalam sekumpulan data yang bertipe sama (baik bertipe dasar maupun bertipe bentukan).
