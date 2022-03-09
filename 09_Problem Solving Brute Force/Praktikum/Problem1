@@ -1,0 +1,24 @@
+package Section_9_Greedy_BruteForce_Divide;
+
+public class Problem_1 {
+	public static void main(String[]arhs) {
+	System.out.println(simpleEquation(6,6,14));
+
+	}
+
+	public static String simpleEquation(int A,int B, int C) { 
+	for(int x =1; x<=A; x++) {
+		
+		for(int y= x+1;y<=A;y++) {
+			var z=A-(x+y);
+			if(x*y*z == B &&((x*x)+(y*y)+(z*z)==C)){
+				var temp=x+""+y+""+z;;
+				return temp;
+			}
+		}
+	}
+	return "No Solution";
+	}
+	}
+
+
